@@ -1,3 +1,3 @@
 # LeetCodeChallenge2023
-# This Repository is Created as a part of my Leetcode Challenge 2023
+# I created this repository to keep track of my leetcode problem solving.
 I will regularly upload the source code of problems I solve on Leet Code.
